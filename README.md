@@ -3,7 +3,7 @@
 A Flutter web demo featuring an animated starry background and a responsive image carousel that reacts to user interactions.
 
 <p align="center">
-  <img src="https://placehold.co/800x400/1e1e2f/ffffff?text=Cosmic+Carousel+Demo" alt="Starry Sky Demo Screenshot" width="700"/>
+  <img src="https://ibb.co/mVTygTKF"/>
 </p>
 
 ## 🚀 Features
