@@ -3,7 +3,7 @@
 A Flutter web demo featuring an animated starry background and a responsive image carousel that reacts to user interactions.
 
 <p align="center">
-  <img src="https://ibb.co/mVTygTKF"/>
+  <img src="https://i.ibb.co/wFgQjgqr/Screenshot-from-2025-07-13-20-51-08.png"/>
 </p>
 
 ## 🚀 Features
